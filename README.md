@@ -1,30 +1,42 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A Passionate [Your Role] from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm Kervy N. Cadiente</h1>
+<h3 align="center">Future Cybersecurity Trainer & Educator 🔐</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 I’m currently studying **[Your Course / Program]**
-- 💻 I’m working on **[Your Current Project]**
-- 🌱 I’m learning **[Technologies you're learning]**
-- 📫 Reach me at: **[your email]**
+## 🧠 About Me
+
+I am an aspiring **Cybersecurity Trainer and Educator** passionate about spreading awareness, building secure systems, and teaching others how to protect digital environments.
+
+* 🎓 Currently 3rd Year BSIT Student specializing in Cybersecurity
+* 🔐 Interested in Ethical Hacking, Network Security, and Digital Forensics
+* 📚 Future goal: To train and educate individuals in cybersecurity field
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,laravel,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,linux,git,github,vscode" />
 </p>
+
+---
+
+## 🔐 Cybersecurity Focus
+
+* Network Security & Monitoring
+* Basic Penetration Testing Concepts
+* Secure Coding Practices
+* Risk Assessment & Awareness
+* Incident Detection & Prevention
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
@@ -32,19 +44,14 @@
 
 ---
 
-## 📂 Featured Projects
-- 🔹 **Project Name** – Short description of what it does  
-- 🔹 **Project Name** – Short description  
-
----
-
 ## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://facebook.com/yourprofile">Facebook</a> •
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
-  <a href="https://instagram.com/yourprofile">Instagram</a>
+  <a href="www.linkedin.com/in/kervy-cadiente-7b642b3a8">LinkedIn</a>
 </p>
 
 ---
 
-<p align="center">✨ "Code. Learn. Build. Repeat." ✨</p>
+<p align="center">
+  🔐 "Securing systems. Educating minds. Building the future." 🔐
+</p>

@@ -8,9 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=87CEEB&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+🔐;Future+Cybersecurity+Trainer;Ethical+Hacking+%7C+Network+Security;Learning+Secure+System+Development" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kervy05&label=PROFILE+VIEWS&color=87CEEB&style=for-the-badge"/>
-</p>
+
 
 </div>
 

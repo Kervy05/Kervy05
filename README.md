@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:1B2A49,100:87CEEB&height=250&section=header&text=Kervy%20N.%20Cadiente&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Future%20Cybersecurity%20Trainer%20%26%20Educator&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:1B2A49,100:87CEEB&height=250&section=header&text=Kervy%20N.%20Cadiente&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Future%20Cybersecurity%20Trainer%20and%20Educator&descAlignY=55"/>
 
 # ☁️ Future Cybersecurity Educator
 
@@ -30,7 +30,7 @@ focus:
   - Cybersecurity Awareness
 
 goal:
-  "To become a Cybersecurity Trainer & Educator"
+  "To become a Cybersecurity Trainer and Educator"
 ```
 
 ---
@@ -63,11 +63,11 @@ goal:
 
 | Domain | Focus |
 |---|---|
-| 🛡️ Network Security | Monitoring & Defense |
+| 🛡️ Network Security | Monitoring and Defense |
 | 💻 Ethical Hacking | Penetration Testing |
 | 🔎 Digital Forensics | Investigation |
 | 🔐 Secure Coding | Safer Applications |
-| 🚨 Incident Response | Detection & Prevention |
+| 🚨 Incident Response | Detection and Prevention |
 
 </div>
 

@@ -1,53 +1,69 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:1B2A49,100:87CEEB&height=250&section=header&text=Kervy%20N.%20Cadiente&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Future%20Cybersecurity%20Trainer%20and%20Educator&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:87CEEB,25:6EC6FF,50:4DA8DA,75:1B4965,100:0B1026&text=Kervy%20N.%20Cadiente&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Future%20Cybersecurity%20Trainer%20and%20Educator&descAlignY=56"/>
 
-# ☁️ Future Cybersecurity Educator
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=25&pause=1000&color=87CEEB&center=true&vCenter=true&width=850&lines=☁️+Sky-Themed+Cybersecurity+Profile;🔐+Learning+Cybersecurity+Everyday;💻+Building+Secure+Digital+Experiences;🌌+Future+Cybersecurity+Trainer+and+Educator"/>
 
+<br>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kervy05&label=PROFILE+VIEWS&color=87CEEB&style=for-the-badge"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Kervy05&label=PROFILE+VIEWS&color=87CEEB&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# ☁️ whoami
+<div align="center">
+
+# ☁️ `whoami`
+
+</div>
+
+<img align="right" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 ```yaml
 name: "Kervy N. Cadiente"
-role: "BSIT Student • Cybersecurity Track"
+
+role: 
+  - BSIT Student
+  - Cybersecurity Enthusiast
+  - Future Cybersecurity Educator
+
 location: "Philippines 🇵🇭"
 
-focus:
+currently_learning:
   - Ethical Hacking
   - Network Security
   - Digital Forensics
+  - Secure Coding
   - Cybersecurity Awareness
 
-goal:
-  "To become a Cybersecurity Trainer and Educator"
+life_motto:
+  "Protect systems. Inspire minds. Build the future."
 ```
 
+<br><br><br><br>
+
 ---
+
+<div align="center">
 
 # 🌌 About Me
 
+</div>
+
 ```txt
-☁️ Passionate about cybersecurity
-🔐 Learning secure digital environments
-📚 Exploring ethical hacking and system defense
-⚡ Building projects and improving daily
-🧠 Aspiring cybersecurity educator
+☁️ Passionate about cybersecurity and secure systems
+🔐 Exploring ethical hacking and digital defense
+💻 Building projects while improving my skills daily
+📚 Learning how technology and security work together
+🌠 Dreaming to become a cybersecurity trainer someday
 ```
 
 ---
 
-# ⚔️ Tech Stack
-
 <div align="center">
+
+# ⚔️ Tech Arsenal
 
 <img src="https://skillicons.dev/icons?i=python,java,mysql,linux,git,github,vscode,html,css,javascript,bash"/>
 
@@ -55,60 +71,68 @@ goal:
 
 ---
 
-# 🔐 Cybersecurity Focus
+<div align="center">
+
+# ☁️ Cybersecurity Focus
+
+</div>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Network%20Security-87CEEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ethical%20Hacking-6EC6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Digital%20Forensics-4DA8DA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Secure%20Coding-1B4965?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Incident%20Response-0B1026?style=for-the-badge"/>
+
+</p>
+
+---
 
 <div align="center">
 
-| Domain | Focus |
-|---|---|
-| 🛡️ Network Security | Monitoring and Defense |
-| 💻 Ethical Hacking | Penetration Testing |
-| 🔎 Digital Forensics | Investigation |
-| 🔐 Secure Coding | Safer Applications |
-| 🚨 Incident Response | Detection and Prevention |
+# 📊 GitHub Sky Analytics
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kervy05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=87CEEB&icon_color=87CEEB&text_color=ffffff"/>
+
+<img height="180" src="https://streak-stats.demolab.com?user=Kervy05&theme=tokyonight&hide_border=true&background=0D1117&ring=87CEEB&fire=87CEEB&currStreakLabel=87CEEB"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kervy05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=87CEEB&text_color=ffffff"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
-
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kervy05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=87CEEB&icon_color=87CEEB"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Kervy05&theme=tokyonight&hide_border=true&background=0D1117&ring=87CEEB&fire=87CEEB&currStreakLabel=87CEEB"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kervy05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=87CEEB&text_color=ffffff"/>
-
-</div>
-
----
 
 # 🌠 Current Mission
 
+</div>
+
 ```txt
-[██████████████░░░░░░] 70%
+☁️ SKY MISSION STATUS
+
+[████████████████░░░░] 80%
 
 ✔ Learning Cybersecurity Fundamentals
-✔ Building Security Projects
-✔ Exploring Networking
-✔ Improving Problem Solving
-⏳ Future Cybersecurity Educator
+✔ Building Security Related Projects
+✔ Exploring Networking and Linux
+✔ Improving Technical Skills
+⏳ Becoming Future Cybersecurity Educator
 ```
 
 ---
 
-# 🌐 Connect With Me
-
 <div align="center">
+
+# 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/kervy-cadiente-7b642b3a8">
   <img src="https://img.shields.io/badge/LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Kervy05">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=87CEEB"/>
+  <img src="https://img.shields.io/badge/GitHub-0B1026?style=for-the-badge&logo=github&logoColor=87CEEB"/>
 </a>
 
 </div>
@@ -117,8 +141,8 @@ goal:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:0B1026&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0B1026,25:1B4965,50:4DA8DA,75:6EC6FF,100:87CEEB"/>
 
-### 🔐 "Protecting systems. Educating minds. Building the future."
+### ☁️ "Securing digital skies while inspiring future defenders." 🔐
 
 </div>
